@@ -1,0 +1,22 @@
+{
+  "accounts" : {
+    "6e364a19ee71470eb7ea4cca0eb6f480" : {
+      "accessToken" : "pzgmcax5nvbh44pywh2hfivfczwkvunl",
+      "eligibleForMigration" : false,
+      "hasMultipleProfiles" : false,
+      "legacy" : false,
+      "localId" : "6e364a19ee71470eb7ea4cca0eb6f480",
+      "minecraftProfile" : {
+        "id" : "bed5a636-2f8f-430a-aa79-a122eff8f2ac",
+        "name" : "username"
+      },
+      "persistent" : true,
+      "remoteId" : "5273073323b3e79f0c7d860ebbfb13b5",
+      "type" : "Mojang",
+      "userProperites" : [],
+      "username" : "Bab-pul@mcleaks.net"
+    }
+  },
+  "activeAccountLocalId" : "6e364a19ee71470eb7ea4cca0eb6f480",
+  "mojangClientToken" : "98edfa0be40345f1859400fcef7bf0d4"
+}
